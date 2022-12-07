@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samik1986
+- 👋 Hi, I’m Samik Banerjee @samik1986
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on New research
